@@ -1,0 +1,8 @@
+<svg width="600" height="800" viewBox="0 0 600 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="800" fill="#F5F0EA"/>
+  <path d="M169 516C212 455 231 381 230 307C230 245 260 188 310 152C363 190 390 251 390 315C390 388 411 459 452 516H169Z" fill="#D8B4A0"/>
+  <path d="M224 516C258 464 274 406 274 347C274 294 289 247 310 210C331 247 346 294 346 347C346 406 362 464 396 516H224Z" fill="#9F6F68"/>
+  <circle cx="310" cy="252" r="44" fill="#F8D8C8"/>
+  <text x="300" y="618" text-anchor="middle" fill="#6B4F4B" font-family="Arial, sans-serif" font-size="34" font-weight="700">EasyVail BD</text>
+  <text x="300" y="662" text-anchor="middle" fill="#8C746E" font-family="Arial, sans-serif" font-size="20">Product image</text>
+</svg>
